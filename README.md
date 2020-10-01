@@ -1,5 +1,5 @@
 # Circle-Collision
-java, swing, awt
+Using Java, Swing and AWT.
 
 演示多个球之间发生非对心弹性碰撞的动画窗口
 
@@ -8,7 +8,7 @@ java, swing, awt
  2. 可执行文件：CircleCollision.jar
 
 ## 运行环境
-  JRE1.8以上
+  JRE1.8 以上
 
 ## 使用方法：
- 1. 双击CircleCollision.jar（用JRE打开）
+ 1. 双击 CircleCollision.jar（用JRE打开）
